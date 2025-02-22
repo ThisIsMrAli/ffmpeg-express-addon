@@ -30,10 +30,6 @@ npm install
 npm start
 ```
 
-4️⃣ **Load the add-on in Adobe Express**  
-- Open **Adobe Express**  
-- Navigate to **Add-ons → Developer Mode**  
-- Enter the local development URL provided by `npm start`
 
 ---
 
